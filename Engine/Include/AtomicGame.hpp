@@ -2,7 +2,7 @@
  * @file AtomicGame.hpp
  * @brief Atomic Game header file.
  * 
- * @copyright Copyright (c) 2026 Ryanhtech Labs.
+ * @copyright Copyright (c) 2026 Tonkatech Labs.
  * 
  */
 

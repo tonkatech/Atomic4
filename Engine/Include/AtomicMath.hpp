@@ -3,7 +3,7 @@
  * @author your name (you@domain.com)
  * @brief AtomicMath implementation
  * 
- * @copyright Copyright (c) 2026 Ryanhtech Labs.
+ * @copyright Copyright (c) 2026 Tonkatech Labs.
  * 
  */
 

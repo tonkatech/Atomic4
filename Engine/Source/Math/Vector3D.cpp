@@ -2,7 +2,7 @@
  * @file Vector3D.cpp
  * @brief Implementation of Vector3D
  * 
- * @copyright Copyright (c) 2026 Ryanhtech Labs.
+ * @copyright Copyright (c) 2026 Tonkatech Labs.
  * 
  */
 

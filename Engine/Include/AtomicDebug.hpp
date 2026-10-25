@@ -2,7 +2,7 @@
  * @file AtomicDebug.hpp
  * @brief Atomic Debug header file
  * 
- * @copyright Copyright (c) 2026 Ryanhtech Labs.
+ * @copyright Copyright (c) 2026 Tonkatech Labs.
  * 
  */
 

@@ -2,7 +2,7 @@
  * @file AtomicEngine.hpp
  * @brief Atomic header file
  * 
- * @copyright Copyright (c) 2026 Ryanhtech Labs.
+ * @copyright Copyright (c) 2026 Tonkatech Labs.
  * 
  */
 

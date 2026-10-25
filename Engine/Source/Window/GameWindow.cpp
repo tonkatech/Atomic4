@@ -2,7 +2,7 @@
  * @file GameWindow.cpp
  * @brief GameWindow implementation
  * 
- * @copyright Copyright (c) 2026 Ryanhtech Labs.
+ * @copyright Copyright (c) 2026 Tonkatech Labs.
  * 
  */
 

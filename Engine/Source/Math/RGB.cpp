@@ -2,7 +2,7 @@
  * @file RGB.cpp
  * @brief RGB implementation
  * 
- * @copyright Copyright (c) 2026 Ryanhtech Labs.
+ * @copyright Copyright (c) 2026 Tonkatech Labs.
  * 
  */
 
